@@ -1,6 +1,6 @@
 # Test
 
-Hello Karim!
+Hello!
 
 ## Working in my mind
 
